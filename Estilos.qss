@@ -1,0 +1,68 @@
+QMainWindow {
+    background-color: #94ECC8;
+}
+
+QPlainTextEdit, #EntradaConsulta {
+    background-color: #D8FFEF;
+    font-size:        20px;
+}
+
+QDateEdit {
+    font-size: 16px;
+}
+
+QLineEdit {
+    font-size: 16px;
+}
+
+QPushButton {
+    background-color: #44C67B;
+    font:             16px;
+    padding:          12px 8px 12px 8px;
+}
+
+QLabel {
+    font-size: 16px;
+}
+
+QListWidget {
+    background-color: #D8FFEF;
+    font-size:        17px;
+}
+
+QComboBox {
+    background-color: #44C67B;
+    font-size:        16px;
+}
+
+#VerTodos, #AgregarCliente {
+    background-color: #44C67B;
+    font:             16px;
+    padding:          8px 0px 8px 0px;
+    margin:           0px 400px 0px 0px;  
+      
+}
+
+#DescripcionIngresar {
+    font-size:        16px;
+    background-color: #FFFFFF;
+    margin: 0px 0px 6px 0px;
+}
+
+#BotonConsulta {
+    background-color: #44C67B;
+    font:             16px;
+    padding:          4px 8px 4px 8px;
+    margin:           0px 300px 0px 10px;
+}
+
+#BotonActualizar {
+    background-color: #44C67B;
+    font:             16px;
+    padding:          6px 6px 6px 6px;
+    margin:           0px 500px 0px 0px;
+}
+
+#ControlesMensajes {
+    margin: 40px 0px 0px 0px;
+}
