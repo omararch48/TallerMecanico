@@ -1,7 +1,7 @@
-## Taller Mecánico
+# Taller Mecánico
 
 
-# Para ejecutar el programa realiza los siguientes pasos
+## Para ejecutar el programa realiza los siguientes pasos
 
 
     * Descargar todos los archivos en un mismo directorio
