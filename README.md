@@ -1,5 +1,8 @@
 # Taller Mecánico
 
+  Este es un programa pensado para ser un axiliar en los talleres mecánicos para 
+  manejar los trabajos, así como llevar un registro de herramientas y refacciones.
+
 
 ## Para ejecutar el programa realiza los siguientes pasos
 
